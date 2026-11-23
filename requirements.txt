@@ -1,3 +1,2 @@
 dbt-core==1.12.7
 dbt-postgres==1.11.0
-dbt=1.13.0-b1
